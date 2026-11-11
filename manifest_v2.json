@@ -1,0 +1,35 @@
+{
+  "item": {
+    "id": "com.whale.wear.neontide",
+    "restype": "quick_app",
+    "name": "霓虹幸存者",
+    "description": "一个类似于吸血鬼幸存者的小游戏，作为练手玩，有各种建议和bug可以在评论中提出，哦对了，目前只支持小米11系列，明天再去适配其他版本",
+    "preview": [
+      "media/1000025330.png",
+      "media/1000025327.png",
+      "media/1000025339.png"
+    ],
+    "icon": "media/1000025349.png",
+    "cover": "media/1000025431.png",
+    "author": [
+      {
+        "name": "Nddsxg",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb11": {
+      "version": "0.3.4",
+      "file_name": "downloads/com.whale.wear.neontide.release.0.3.4.rpk",
+      "versionCode": 7
+    },
+    "xmb11nfc": {
+      "version": "0.3.4",
+      "file_name": "downloads/com.whale.wear.neontide.release.0.3.4.rpk",
+      "versionCode": 7
+    }
+  },
+  "ext": {}
+}
