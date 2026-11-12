@@ -3,7 +3,7 @@
     "id": "com.whale.wear.neontide",
     "restype": "quick_app",
     "name": "霓虹幸存者",
-    "description": "一个类似于吸血鬼幸存者/弹壳特攻队的小游戏，目前在小米手环11上实测可正常运行，其他版本若有不适配地方或者游玩时有bug，可以在评论中说明",
+    "description": "一个类似于吸血鬼",
     "preview": [
       "media/1000025330.png",
       "media/1000025327.png",
@@ -20,85 +20,15 @@
   },
   "links": [],
   "downloads": {
-    "xmrw5": {
-      "version": "0.3.5",
-      "file_name": "downloads/16-REDMI Watch 5-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmrw5xring": {
-      "version": "0.3.5",
-      "file_name": "downloads/15-REDMI Watch 5 eSIM-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmrw6": {
-      "version": "0.3.5",
-      "file_name": "downloads/14-REDMI Watch 6-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmb10": {
-      "version": "0.3.5",
-      "file_name": "downloads/13-Xiaomi Smart Band 10-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmb10nfc": {
-      "version": "0.3.5",
-      "file_name": "downloads/13-Xiaomi Smart Band 10-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmb10p": {
-      "version": "0.3.5",
-      "file_name": "downloads/11-Xiaomi Smart Band 10 Pro-0.3.5.rpk",
-      "versionCode": 8
-    },
     "xmb11": {
-      "version": "0.3.5",
-      "file_name": "downloads/10-Xiaomi Smart Band 11-0.3.5.rpk",
-      "versionCode": 8
+      "version": "0.3.4",
+      "file_name": "downloads/com.whale.wear.neontide.release.0.3.4.rpk",
+      "versionCode": 7
     },
     "xmb11nfc": {
-      "version": "0.3.5",
-      "file_name": "downloads/10-Xiaomi Smart Band 11-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmb9": {
-      "version": "0.3.5",
-      "file_name": "downloads/08-Xiaomi Smart Band 9-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmb9p": {
-      "version": "0.3.5",
-      "file_name": "downloads/07-Xiaomi Smart Band 9 Pro-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmws3": {
-      "version": "0.3.5",
-      "file_name": "downloads/06-Xiaomi Watch S3 系列-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmws4xring": {
-      "version": "0.3.5",
-      "file_name": "downloads/05-Xiaomi Watch S4 15周年纪念版-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmws441": {
-      "version": "0.3.5",
-      "file_name": "downloads/04-Xiaomi Watch S4 41mm-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmws4": {
-      "version": "0.3.5",
-      "file_name": "downloads/03-Xiaomi Watch S4 系列-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmws541": {
-      "version": "0.3.5",
-      "file_name": "downloads/02-Xiaomi Watch S5 41mm-0.3.5.rpk",
-      "versionCode": 8
-    },
-    "xmws5": {
-      "version": "0.3.5",
-      "file_name": "downloads/01-Xiaomi Watch S5 系列-0.3.5.rpk",
-      "versionCode": 8
+      "version": "0.3.4",
+      "file_name": "downloads/com.whale.wear.neontide.release.0.3.4.rpk",
+      "versionCode": 7
     }
   },
   "ext": {}
