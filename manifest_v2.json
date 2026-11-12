@@ -29,6 +29,76 @@
       "version": "0.3.4",
       "file_name": "downloads/com.whale.wear.neontide.release.0.3.4.rpk",
       "versionCode": 7
+    },
+    "xmrw5": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-redmiwatch5-432x514-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmrw5xring": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-redmiwatch5-esim-432x514-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmrw6": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-redmiwatch6-432x514-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmb10": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-band10-212x520-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmb10p": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-band10pro-336x480-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmb10nfc": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-band10-212x520-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmb9": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-band9-192x490-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmb9p": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-band9pro-336x480-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmws3": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-watchs3-466x466-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmws4xring": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-watchs4-15-466x466-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmws441": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-watchs4-41-466x466-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmws4": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-watchs4-466x466-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmws541": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-watchs5-41-466x466-0.3.5.rpk",
+      "versionCode": 8
+    },
+    "xmws5": {
+      "version": "0.3.5",
+      "file_name": "downloads/neon-tide-watchs5-480x480-0.3.5.rpk",
+      "versionCode": 8
     }
   },
   "ext": {}
