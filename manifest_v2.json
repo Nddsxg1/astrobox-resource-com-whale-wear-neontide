@@ -3,14 +3,14 @@
     "id": "com.whale.wear.neontide",
     "restype": "quick_app",
     "name": "霓虹幸存者",
-    "description": "一个类似于吸血鬼幸存者的小游戏，作为练手玩，有各种建议和bug可以在评论中提出，哦对了，目前只支持小米11系列，明天再去适配其他版本",
+    "description": "一个类似于蛋壳特工队和吸血鬼幸存者的小游戏，目前对小米11手环是实测正常运行，其他设备若有各种问题或者对游戏有一些建议，都可在评论提出",
     "preview": [
-      "media/1000025330.png",
-      "media/1000025327.png",
-      "media/1000025339.png"
+      "media/1000025495.png",
+      "media/1000025480.png",
+      "media/1000025489.png"
     ],
     "icon": "media/1000025349.png",
-    "cover": "media/1000025431.png",
+    "cover": "media/1000025468.png",
     "author": [
       {
         "name": "Nddsxg",
